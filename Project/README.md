@@ -95,3 +95,41 @@ A user story is considered DONE when:
 - No critical or blocking bugs remain.
 - The feature is demonstrated successfully.
 - Changes are committed and pushed to GitHub.
+
+## Day 2 - Language Fundamentals
+
+### Business Constants
+
+The project uses a `Constants` class to store important business rules and avoid magic numbers.
+
+Examples:
+- Application stages
+- Maximum resume size
+- Application limit
+- Weekly application sample data
+
+### Weekly Sample Data
+
+| Day | Applications |
+|---|---:|
+| Monday | 12 |
+| Tuesday | 18 |
+| Wednesday | 15 |
+| Thursday | 22 |
+| Friday | 20 |
+| Saturday | 25 |
+| Sunday | 17 |
+
+### Day 2 Concepts Practiced
+
+- Java primitive data types
+- Arrays and 2-D arrays
+- Variables and constants
+- Operators
+- Type casting
+- Overflow and `long`
+- Ternary operator
+- Git fundamentals
+- `.gitignore`
+- GitHub SSH authentication
+- Avoiding magic numbers
